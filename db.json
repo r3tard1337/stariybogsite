@@ -20,13 +20,6 @@
             "sirname": "nema",
             "photo_url": "https://i.ytimg.com/vi/_LgBd9V_ZYs/sddefault.jpg",
             "balance": 100
-        },
-        {
-            "id": 2,
-            "name": "akuma",
-            "sirname": "qqe",
-            "photo_url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d4797d4eb34b7766d09afe8c",
-            "balance": 100
         }
     ]
 }
