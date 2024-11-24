@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "zxc",
+            "sirname": "cursed",
+            "photo_url": "https://viberate-upload.ams3.cdn.digitaloceanspaces.com/prod/entity/artist/zxcursed-SfrKw",
+            "balance": 1000
+        }
     ]
 }
