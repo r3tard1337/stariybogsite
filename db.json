@@ -21,5 +21,168 @@
             "photo_url": "https://i.ytimg.com/vi/_LgBd9V_ZYs/sddefault.jpg",
             "balance": 100
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "LED Displayy",
+            "description": "fsdr",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 2,
+            "name": "LED Displyyay",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 3,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 4,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 5,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 6,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 7,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 8,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 9,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 10,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 11,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 12,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 13,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 14,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 15,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 16,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 17,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 19,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 20,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        },
+        {
+            "id": 21,
+            "name": "LED Display",
+            "description": "fsd",
+            "price": 52,
+            "author_id": 1,
+            "photo-url": "sdvwdv"
+        }
+
     ]
 }
