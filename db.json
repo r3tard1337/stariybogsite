@@ -25,75 +25,75 @@
     "products": [
         {
             "id": 1,
-            "name": "LED Displayy",
-            "description": "fsdr",
-            "price": 52,
+            "name": "plush hoodie silence at the peak black",
+            "description": "plush double-sided fabric, machine embroidery, oversize fit",
+            "price": 2300,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/n641wPC.png"
         },
         {
-            "id": 2,
-            "name": "LED Displyyay",
-            "description": "fsd",
-            "price": 52,
+            "id": 1,
+            "name": "plush hoodie silence at the peak white",
+            "description": "plush double-sided fabric, machine embroidery, oversize fit",
+            "price": 2300,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/lCXmYgl.png"
         },
         {
             "id": 3,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "pants vanished echoes",
+            "description": "pants vanished echoes, dense lacoste sport",
+            "price": 1500,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/T2uZjmo.png"
         },
         {
             "id": 4,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "pants empty promise",
+            "description": "pants empty promise, fleece rainwear fabric, machine embroidery",
+            "price": 1500,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/z0vJM6k.png"
         },
         {
             "id": 5,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "hoodie dark abyss",
+            "description": "hoodie dark abyss, 80% cotton 20% elastane, print DTF transfer, oversize fit",
+            "price": 1600,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/Gabqu75.png"
         },
         {
             "id": 6,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "longsleeve loneliest path",
+            "description": "longsleeve loneliest path, 96% cotton 4% elastane, machine embroidery, oversize fit",
+            "price": 1800,
             "author_id": 1,
             "photo-url": "sdvwdv"
         },
         {
             "id": 7,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "pants ackee /r",
+            "description": "pants ackee /r, knitwear, machine embroidery",
+            "price": 1400,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/jdYrj7Z.jpg"
         },
         {
             "id": 8,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "longsleeve ackee",
+            "description": "longsleeve ackee, 96% cotton 4% elastane, print DTF transfer, oversize fit",
+            "price": 1450,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/guVBSAE.jpg"
         },
         {
             "id": 9,
-            "name": "LED Display",
-            "description": "fsd",
-            "price": 52,
+            "name": "t-shirt shadows of place",
+            "description": "t-shirt shadows of place, DTF transfer, 95% cotton 5% lycra, oversize fit",
+            "price": 900,
             "author_id": 1,
-            "photo-url": "sdvwdv"
+            "photo-url": "https://i.imgur.com/KFSjgJY.jpg"
         },
         {
             "id": 10,
